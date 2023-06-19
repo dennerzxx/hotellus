@@ -1,0 +1,12 @@
+.banner__titulo{
+    font-family: garamond;
+    text-align: center;
+    width: 100%;
+    font-size: 3.0625rem;
+    position: absolute;
+    top: 50% ;
+    left: 50% ;
+    color: #fdfdfd;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    transform: translate(-50%, -50%);
+}
